@@ -75,7 +75,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-repeat: no-repeat;
-  background-image: url(C:\REACT\fris\src\components\bg1.jpeg);
+  background-image: url("https://t3.ftcdn.net/jpg/03/46/14/30/360_F_346143059_HJSSw7TxF0C7SnZcrXYN2vR7DHHOCOxJ.jpg");
     /* background-color: blue; */
     background-size: cover;
     justify-content: center;
